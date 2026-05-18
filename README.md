@@ -7,7 +7,7 @@ End-to-end sales analytics project analyzing 34,865 transactions across 4 countr
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard]("C:\Users\burug\OneDrive\Desktop\projects\Sales performance\Screenshot (84).png")
+![Sales Performance Dashboard]("Screenshot 2026-05-18 140034.png")
 
 ---
 
