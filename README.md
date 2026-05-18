@@ -7,7 +7,7 @@ End-to-end sales analytics project analyzing 34,865 transactions across 4 countr
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard]("page.png")
+![Sales Performance Dashboard](page.png)
 
 ---
 
