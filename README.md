@@ -7,7 +7,7 @@ End-to-end sales analytics project analyzing 34,865 transactions across 4 countr
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard]("Screenshot 2026-05-18 140034.png")
+![Sales Performance Dashboard]("page.png")
 
 ---
 
@@ -219,4 +219,3 @@ jupyter notebook python/sales_data_cleaning.py
 **Burugu Pallavi**
 - LinkedIn: [PallaviBurugu](https://linkedin.com/in/PallaviBurugu)
 - GitHub: [PallaviBurugu](https://github.com/PallaviBurugu)
-- Email: burugupallavi123@gmail.com
